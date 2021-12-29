@@ -1,6 +1,6 @@
 # Hi, I'm Felipe :call_me_hand:
 
-#### I'am a trainee developer with a passion for coding and learning new tech.
+#### <em>I'am a trainee developer with a passion for coding and learning new tech.</em>
 
 - 🔭 I'm currently working at FitBank as a trainee developer
 - 🌱 I'm currently learning and going deeper into <strong>C#, .NET, HTML, CSS and JavaScript</strong>
