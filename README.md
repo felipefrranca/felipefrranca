@@ -2,7 +2,7 @@
 
 #### <em>I'am a development intern with a passion for coding and learning new tech.</em>
 
-- 🔭 I'm currently working at FitBank as a trainee developer
+- 🔭 I'm currently working at FitBank as a development intern
 - 🌱 I'm currently learning and going deeper into <strong>C#, .NET, HTML, CSS and JavaScript</strong>
 
 #### Find me:
