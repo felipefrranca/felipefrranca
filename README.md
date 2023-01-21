@@ -1,9 +1,9 @@
 # Hi, I'm Felipe :call_me_hand:
 
-#### <em>I'am a development intern with a passion for coding and learning new tech.</em>
+#### <em>I'am a junior software developer with a passion for coding and learning new tech.</em>
 
-- 🔭 I'm currently working at FitBank as a development intern
-- 🌱 I'm currently learning and going deeper into <strong>C#, .NET, HTML, CSS and JavaScript</strong>
+- 🔭 I'm currently working at FitBank as a junior software developer
+- 🌱 I'm currently going deeper into <strong>C#, .NET, HTML, CSS and JavaScript</strong>
 
 #### Find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefrranca/)
